@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic
+  - Spawner
+  - MainBall
+  - Paddle
+  - Multiball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ball
+  - Paddle
+  - Glow
+  - MultiBall
+  - Ground
+  - Goo
+  - DoublePaddle
+  - Brick
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1148034449
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GlowLayer
+    uniqueID: 256960857
+    locked: 0
