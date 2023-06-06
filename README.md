@@ -1,2 +1,2 @@
 # BreakOutGame
-A small Unity Break Out Game
+A small Unity Break Out Game for learning purpose
